@@ -11,7 +11,10 @@
       "name": "bmad-cowork",
       "version": "1.0.0",
       "description": "BMad Method for Claude Cowork — AI-driven agile development with specialized agents, structured workflows, and test architecture.",
-      "path": "."
+      "source": {
+        "source": "github",
+        "repo": "bspann/bmad-cowork"
+      }
     }
   ]
 }
