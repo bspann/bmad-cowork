@@ -2,11 +2,16 @@
   "name": "bmad-cowork-marketplace",
   "version": "1.0.0",
   "description": "BMad Method plugin marketplace for Claude Cowork",
-  "plugins": {
-    "bmad-cowork": {
+  "owner": {
+    "name": "bspann",
+    "url": "https://github.com/bspann"
+  },
+  "plugins": [
+    {
+      "name": "bmad-cowork",
       "version": "1.0.0",
       "description": "BMad Method for Claude Cowork — AI-driven agile development with specialized agents, structured workflows, and test architecture.",
       "path": "."
     }
-  }
+  ]
 }
