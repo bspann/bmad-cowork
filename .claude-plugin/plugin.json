@@ -1,0 +1,25 @@
+{
+  "name": "bmad-cowork",
+  "version": "1.0.0",
+  "description": "BMad Method for Claude Cowork — AI-driven agile development with specialized agents, structured workflows, and test architecture. Includes BMM (core dev lifecycle), BMB (agent/workflow builder), and TEA (test engineering architect) modules.",
+  "author": {
+    "name": "BMAD Cowork Community",
+    "url": "https://github.com/YOUR_USERNAME/bmad-cowork"
+  },
+  "homepage": "https://github.com/YOUR_USERNAME/bmad-cowork",
+  "repository": "https://github.com/YOUR_USERNAME/bmad-cowork",
+  "license": "MIT",
+  "keywords": [
+    "bmad",
+    "agile",
+    "ai-driven-development",
+    "multi-agent",
+    "software-development",
+    "test-architecture",
+    "cowork",
+    "knowledge-work"
+  ],
+  "agents": "./agents/",
+  "skills": "./skills/",
+  "commands": "./commands/"
+}

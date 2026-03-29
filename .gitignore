@@ -1,0 +1,17 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node (if people add scripts later)
+node_modules/
+package-lock.json
+
+# BMad project output (these are per-project, not plugin files)
+_bmad/
+_bmad-output/
