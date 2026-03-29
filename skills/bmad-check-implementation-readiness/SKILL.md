@@ -1,4 +1,7 @@
-# BMad Check Implementation Readiness
+---
+name: ready
+description: "GO/NO-GO readiness check before starting implementation. Gate between planning and building."
+---
 
 Use when all Phase 3 artifacts are complete and you need a GO/NO-GO decision before starting implementation. This is the gate between planning and building.
 

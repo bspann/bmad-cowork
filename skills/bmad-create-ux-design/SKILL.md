@@ -1,4 +1,7 @@
-# BMad Create UX Design
+---
+name: ux-design
+description: "Create UX design specifications including screens, flows, and components. Phase 3 (optional)."
+---
 
 Use when creating UX design specifications including screen layouts, user flows, and component definitions. Optional Phase 3 workflow — recommended for projects with user interfaces.
 

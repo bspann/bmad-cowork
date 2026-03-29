@@ -1,4 +1,7 @@
-# BMad TEA Teach Me (TEA Academy)
+---
+name: tea-teach-me
+description: "TEA Academy - interactive testing education across 7 progressive sessions."
+---
 
 Use when learning about testing concepts, strategies, and best practices. Interactive learning companion with 7 structured sessions.
 

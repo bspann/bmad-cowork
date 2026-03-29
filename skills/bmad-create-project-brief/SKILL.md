@@ -1,4 +1,7 @@
-# BMad Create Project Brief
+---
+name: brief
+description: "Create a project brief from a product idea. Phase 1 (Analysis) of the BMad Method."
+---
 
 Use when the user wants to explore a product idea and create a structured project brief. This is Phase 1 (Analysis) of the BMad Method.
 

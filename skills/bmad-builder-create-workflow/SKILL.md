@@ -1,4 +1,7 @@
-# BMad Builder Create Workflow
+---
+name: builder-create-workflow
+description: "Design and create a new BMad workflow with steps, templates, and checklists."
+---
 
 Use when creating a new workflow (skill) with structured steps, templates, and checklists.
 

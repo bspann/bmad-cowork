@@ -1,4 +1,7 @@
-# BMad Builder Create Agent
+---
+name: builder-create-agent
+description: "Design and create a new custom BMad agent with persona, expertise, and workflows."
+---
 
 Use when creating a new custom BMad agent with persona, expertise, workflows, and menu.
 

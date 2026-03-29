@@ -1,4 +1,7 @@
-# BMad Quick Dev
+---
+name: quick-dev
+description: "Quick flow for bug fixes and small features. Combines spec, build, and review in one workflow."
+---
 
 Use for bug fixes, small features, or rapid prototyping that doesn't need full planning phases. Combines spec + build + review in one workflow.
 

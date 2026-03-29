@@ -1,4 +1,7 @@
-# BMad Sprint Planning
+---
+name: sprint-plan
+description: "Create sprint-status.yaml and plan the first sprint. Transition from planning to implementation."
+---
 
 Use when transitioning from planning to implementation. Creates sprint-status.yaml — the single source of truth for Phase 4 tracking.
 

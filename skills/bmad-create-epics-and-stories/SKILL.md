@@ -1,4 +1,7 @@
-# BMad Create Epics and Stories
+---
+name: epics
+description: "Break architecture into implementable epics and stories with acceptance criteria. Phase 3."
+---
 
 Use when breaking architecture into implementable epics and stories with acceptance criteria. This is a Phase 3 workflow that must run AFTER architecture is complete.
 

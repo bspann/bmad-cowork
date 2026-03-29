@@ -1,4 +1,7 @@
-# BMad TEA Trace
+---
+name: tea-trace
+description: "Traceability matrix and evidence-backed release gate GO/NO-GO decisions."
+---
 
 Use for traceability matrix creation and evidence-backed release gate (GO/NO-GO) decisions. Two-phase workflow: Phase 1 builds traceability, Phase 2 makes gate decision.
 

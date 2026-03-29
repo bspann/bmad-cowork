@@ -1,4 +1,7 @@
-# BMad Init
+---
+name: init
+description: "Initialize a project for BMad workflows. Creates _bmad/ directory, config, and status tracking."
+---
 
 Use when setting up a new project for BMad workflows. Creates the directory structure, config, and status tracking files.
 

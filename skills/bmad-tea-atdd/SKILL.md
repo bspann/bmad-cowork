@@ -1,4 +1,7 @@
-# BMad TEA ATDD
+---
+name: tea-atdd
+description: "Write Acceptance Test-Driven Development specifications before implementation."
+---
 
 Use when writing Acceptance Test-Driven Development specifications before implementation. Run per story when helpful in Phase 4.
 

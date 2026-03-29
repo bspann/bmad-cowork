@@ -1,4 +1,7 @@
-# BMad Retrospective
+---
+name: retro
+description: "Sprint retrospective. Reflect on what went well, what didn't, and plan improvements."
+---
 
 Use at the end of a sprint to reflect on what went well, what didn't, and what to improve.
 

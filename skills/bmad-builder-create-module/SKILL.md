@@ -1,4 +1,7 @@
-# BMad Builder Create Module
+---
+name: builder-create-module
+description: "Create a complete BMad module packaging agents, workflows, and knowledge together."
+---
 
 Use when creating a complete BMad module — a coherent package of agents, workflows, and knowledge for a specific domain.
 

@@ -1,4 +1,7 @@
-# BMad TEA Automate
+---
+name: tea-automate
+description: "Implement test automation for features. The most commonly used TEA workflow."
+---
 
 Use when implementing test automation for features. The most commonly used TEA workflow.
 

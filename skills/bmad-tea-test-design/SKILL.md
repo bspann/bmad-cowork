@@ -1,4 +1,7 @@
-# BMad TEA Test Design
+---
+name: tea-test-design
+description: "Create risk-based test designs at system level (Phase 3) or per-epic (Phase 4)."
+---
 
 Use when creating risk-based test designs at the system level (Phase 3) or per-epic level (Phase 4).
 

@@ -1,4 +1,7 @@
-# BMad TEA NFR Assessment
+---
+name: tea-nfr
+description: "Assess non-functional requirements: performance, security, accessibility, reliability."
+---
 
 Use when assessing non-functional requirements: performance, security, accessibility, reliability, and scalability.
 

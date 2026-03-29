@@ -1,4 +1,7 @@
-# BMad Code Review
+---
+name: review
+description: "Adversarial code review that finds 3-10 issues minimum. APPROVE or REQUEST_CHANGES."
+---
 
 Use when reviewing implemented code for a completed story. Adversarial review that finds 3-10 issues minimum.
 

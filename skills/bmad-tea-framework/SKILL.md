@@ -1,4 +1,7 @@
-# BMad TEA Framework
+---
+name: tea-framework
+description: "Set up test framework and infrastructure. Run once in Phase 3 after architecture."
+---
 
 Use when setting up the test framework and infrastructure for a project. Run once in Phase 3 after architecture is defined.
 

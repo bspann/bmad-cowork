@@ -1,4 +1,7 @@
-# BMad TEA Test Review
+---
+name: tea-test-review
+description: "Audit test quality and identify coverage gaps. Optional Phase 4 workflow."
+---
 
 Use when auditing test quality and identifying gaps in test coverage. Optional Phase 4 workflow.
 

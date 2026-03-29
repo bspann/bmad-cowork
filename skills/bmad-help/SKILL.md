@@ -1,4 +1,7 @@
-# BMad Help
+---
+name: help
+description: "Interactive BMad guide. Shows current project status and recommends the next workflow to run."
+---
 
 Use when the user asks for guidance on what to do next, which workflow to run, or how BMad works. This is the universal entry point and navigation aid.
 

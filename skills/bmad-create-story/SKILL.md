@@ -1,4 +1,7 @@
-# BMad Create Story
+---
+name: create-story
+description: "Prepare a detailed story file for implementation with tasks and acceptance criteria."
+---
 
 Use when preparing a specific story for implementation. Creates a detailed story file that serves as the developer's blueprint.
 

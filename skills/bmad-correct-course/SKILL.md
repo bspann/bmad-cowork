@@ -1,4 +1,7 @@
-# BMad Correct Course
+---
+name: correct-course
+description: "Handle mid-implementation changes: scope shifts, architecture issues, or requirement changes."
+---
 
 Use when a story needs significant changes mid-implementation, requirements shift, or an architectural issue is discovered during development.
 

@@ -1,4 +1,7 @@
-# BMad Create Architecture
+---
+name: architect
+description: "Design system architecture from an approved PRD. Phase 3 (Solutioning)."
+---
 
 Use when designing the system architecture based on an approved PRD. This is Phase 3 (Solutioning) of the BMad Method.
 

@@ -1,4 +1,7 @@
-# BMad Workflow Status
+---
+name: status
+description: "Check current project status across all phases. Shows completed work and next actions."
+---
 
 Use to check current project status, see what's been completed, and what's next.
 

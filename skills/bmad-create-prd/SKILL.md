@@ -1,4 +1,7 @@
-# BMad Create PRD
+---
+name: prd
+description: "Create a Product Requirements Document from an approved project brief. Phase 2 (Planning)."
+---
 
 Use when creating a Product Requirements Document from an approved project brief. This is Phase 2 (Planning) of the BMad Method.
 

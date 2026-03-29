@@ -1,4 +1,7 @@
-# BMad TEA CI
+---
+name: tea-ci
+description: "Configure CI/CD pipeline testing stages, quality gates, and artifact collection."
+---
 
 Use when configuring CI/CD pipeline testing. Run once in Phase 3 after test framework is set up.
 

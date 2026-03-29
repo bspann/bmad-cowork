@@ -1,4 +1,7 @@
-# BMad Dev Story
+---
+name: dev
+description: "Implement a story using red-green-refactor TDD. Task-by-task with test verification."
+---
 
 Use when implementing a prepared story. Follows red-green-refactor TDD methodology, completing tasks one at a time with test verification.
 
