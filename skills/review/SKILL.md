@@ -70,7 +70,7 @@ For each issue found:
 If APPROVED:
 1. Update sprint-status.yaml: set story status to `"complete"`
 2. Update story file: set Status to `COMPLETE`
-3. Announce: "Story [ID] approved. Move to next story or run `/bmad-cowork:sprint-status`"
+3. Announce: "Story [ID] approved. Move to next story or run `/bmad-cowork:status`"
 
 If REQUEST_CHANGES:
 1. Keep sprint-status.yaml story status as `"review"`
